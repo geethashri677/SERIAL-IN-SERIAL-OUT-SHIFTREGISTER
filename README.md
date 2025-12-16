@@ -36,7 +36,10 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR SISO Shift Register**
+<img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/feafd920-df8a-4ebf-a0b4-dff395bd4806" />
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/204e69cb-3272-4df0-a0bb-e430b3e1c23f" />
 
 **RESULTS**
+ Thus,Program for flipflops and verified its truth table in quartus using Verilog programming.
